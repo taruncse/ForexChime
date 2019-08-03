@@ -8,6 +8,7 @@
 * Live update of current price of selective paires (Eg: USDJPY, GBPUSD, EURUSD, XAUUSD etc.)
 * Widget with live price.
 * Statistic of trade 
+* Price alert for a certain pair
 * Histroy of trading like gain/loss pips .
 
 # Technologies
@@ -18,6 +19,8 @@
 * Firebase
 * Room
 * JobSchedular
+* Navigation Manager
+* Preference Manager
 * Dagger2
 * JUnit testing
 * Instrumuntation testing
