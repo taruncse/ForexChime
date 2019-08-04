@@ -5,12 +5,14 @@
 # Features
 
 * Candle closing alert (for 15m, 30m, 1h, 4h, 1d)
-* Live update of current price of selective paires (Eg: USDJPY, GBPUSD, EURUSD, XAUUSD etc.)
+* Live price update for selected paires (Eg: USDJPY, GBPUSD, EURUSD, XAUUSD etc.)
 * Widget with live price.
-* Statistic of trade 
-* Price alert for a certain pair
-* Histroy of trading like gain/loss pips .
+* Tradig statistic 
+* Trading history like gain/loss pips .
 * Notification
+* Settings page to configure all the feature like 
+  * Pair selection
+  * Alert configuration
 
 # Technologies
 
