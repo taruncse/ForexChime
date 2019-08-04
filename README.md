@@ -12,7 +12,7 @@
 * Notification
 * Settings page to configure all the feature like 
   * Pair selection
-  * Alert configuration
+  * Alerm configuration
 
 # Technologies
 
