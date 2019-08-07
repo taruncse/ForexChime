@@ -30,6 +30,6 @@
 
 # Prototype Design
 
-https://user-images.githubusercontent.com/4899907/62647207-dc4d3080-b971-11e9-8f22-07f099cb861f.jpg
+![2019_08_08 12_14 AM Office Lens](https://user-images.githubusercontent.com/4899907/62647336-1f0f0880-b972-11e9-98b6-1bb2f48d5261.jpg)
 
 # Architectural Design
